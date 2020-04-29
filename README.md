@@ -4,11 +4,11 @@ Tradução para o Português do Brasil para o sistema de envio de newsletters Se
 
 ## Baixar
 
-Por favor acesse a página das **releases**, e baixe a versão compatível com a sua instalação do sendy.
+Por favor acesse a página das **releases**, e baixe a versão compatível com a sua instalação de Sendy.
 
 ## Instalação
 
-Baixae a versão da tradução compatível com a sua versão do sendy, ou a mais recente, em formato zip, e extrair dentro da pasta `/locale/` da sua instalação do sendy.
+Baixe a versão da tradução compatível com a sua instalação de Sendy, ou a mais recente, em formato ZIP, e extraia na pasta `/locale/` da sua instalação de Sendy.
 
 ## Versões disponiveis
 
