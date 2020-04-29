@@ -8,7 +8,7 @@ Por favor acesse a página das **releases**, e baixe a versão compatível com a
 
 ## Instalação
 
-Baixae a versão da tradução compatível com a sua versão do sendy, ou a mais recente, em formato zip, e extrair dentro da pasta __/locale/__ da sua instalação do sendy.
+Baixae a versão da tradução compatível com a sua versão do sendy, ou a mais recente, em formato zip, e extrair dentro da pasta `/locale/` da sua instalação do sendy.
 
 ## Versões disponiveis
 
