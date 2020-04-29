@@ -4,7 +4,7 @@ Tradução para o Português do Brasil para o sistema de envio de newsletters Se
 
 ## Baixar
 
-Por favor acesse a página de **releases**, e baixe a versão compatível com a sua instalação do sendy.
+Por favor acesse a página das **releases**, e baixe a versão compatível com a sua instalação do sendy.
 
 ## Instalação
 
