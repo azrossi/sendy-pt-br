@@ -1,4 +1,4 @@
-# Tradução do Sendy 3.1.2.3
+# Tradução de Sendy 3.1.2.3
 
 Tradução para o Português do Brasil para o sistema de envio de newsletters Sendy.
 
